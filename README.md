@@ -1,5 +1,5 @@
 # DailyAlgosJS
 
-[]Daily Coding Problems
-[]HackerRank
-[]Leetcode
+*Daily Coding Problems
+*HackerRank
+*Leetcode
