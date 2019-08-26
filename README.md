@@ -1,5 +1,6 @@
 # DailyAlgosJS
 
-*Daily Coding Problems
-*HackerRank
-*Leetcode
+* Daily Coding Problems
+* HackerRank
+* Leetcode
+echo "# podblogvlog" >> README.md
